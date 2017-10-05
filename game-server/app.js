@@ -31,7 +31,7 @@ app.configure('production|development', function() {
 		connector: pomelo.connectors.sioconnector,
 		// 'websocket', 'polling-xhr', 'polling-jsonp', 'polling'
 		transports: ['websocket', 'polling'],
-		heartbeats: true,
+		heartbeats: false,
 		closeTimeout: 60 * 1000,
 		heartbeatTimeout: 60 * 1000,
 		heartbeatInterval: 25 * 1000

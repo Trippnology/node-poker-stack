@@ -43,6 +43,11 @@ of human and bot players.
 9. bots will join the game to play
 
 
+## Version History
+0.0.2 - Changes made by EjjE101 for upgraded socket.io edited by Telostia
+0.0.1 - Last known version by Edward Yang
+
+
 ## License
 
 (The MIT License)

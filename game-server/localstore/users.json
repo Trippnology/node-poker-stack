@@ -15,9 +15,9 @@
         "username": "bot2",
         "password": "bot2",
         "email": "bot2@poker-stack.com",
-        "chips": 100000,
-        "wins": 0,
-        "largestWin": 0,
+        "chips": 95157,
+        "wins": 3,
+        "largestWin": 8241,
         "friends": [],
         "created": 1501659466171
     },
@@ -26,9 +26,9 @@
         "username": "bot3",
         "password": "bot3",
         "email": "bot3@poker-stack.com",
-        "chips": 101742,
-        "wins": 1,
-        "largestWin": 4200,
+        "chips": 104401,
+        "wins": 10,
+        "largestWin": 8218,
         "friends": [],
         "created": 1501659466174
     },
@@ -37,9 +37,9 @@
         "username": "bot4",
         "password": "bot4",
         "email": "bot4@poker-stack.com",
-        "chips": 96625,
-        "wins": 1,
-        "largestWin": 3226,
+        "chips": 89032,
+        "wins": 11,
+        "largestWin": 5200,
         "friends": [],
         "created": 1501659466176
     },
@@ -48,8 +48,8 @@
         "username": "bot5",
         "password": "bot5",
         "email": "bot5@poker-stack.com",
-        "chips": 104572,
-        "wins": 6,
+        "chips": 91680,
+        "wins": 11,
         "largestWin": 5000,
         "friends": [],
         "created": 1501659466177
@@ -59,9 +59,9 @@
         "username": "bot6",
         "password": "bot6",
         "email": "bot6@poker-stack.com",
-        "chips": 105849,
-        "wins": 9,
-        "largestWin": 4100,
+        "chips": 89616,
+        "wins": 11,
+        "largestWin": 4622,
         "friends": [],
         "created": 1501659466177
     },
@@ -70,8 +70,8 @@
         "username": "bot7",
         "password": "bot7",
         "email": "bot7@poker-stack.com",
-        "chips": 96635,
-        "wins": 5,
+        "chips": 84223,
+        "wins": 10,
         "largestWin": 3508,
         "friends": [],
         "created": 1501659466178
@@ -81,9 +81,9 @@
         "username": "bot8",
         "password": "bot8",
         "email": "bot8@poker-stack.com",
-        "chips": 89677,
-        "wins": 2,
-        "largestWin": 2439,
+        "chips": 74872,
+        "wins": 8,
+        "largestWin": 3625,
         "friends": [],
         "created": 1501659466178
     },
@@ -97,5 +97,16 @@
         "largestWin": 0,
         "friends": [],
         "created": 1501665282351
+    },
+    "046e1c80-8b27-11e7-ab0c-c3b9afec175c": {
+        "id": "046e1c80-8b27-11e7-ab0c-c3b9afec175c",
+        "username": "dan",
+        "password": "dan123",
+        "email": "dan@dan.com",
+        "chips": 100906,
+        "wins": 0,
+        "largestWin": 0,
+        "friends": [],
+        "created": 1503838535240
     }
 }

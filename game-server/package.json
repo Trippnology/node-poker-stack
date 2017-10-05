@@ -2,11 +2,14 @@
   "author": "Edward Yang",
   "name": "poker-game-stack-server",
   "description": "Texas Holdem poker game server",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "dependencies": {
-    "hoyle": "^0.2.2",
     "pomelo": "^2.2.5",
+    "crc": "0.2.0",
+    "hoyle": "^0.2.2",
+    "node-uuid": "^1.4.1",
+    "pomelo-logger": "^0.1.6",
     "redis": "^2.7.1"
   }
 }
